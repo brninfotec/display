@@ -1,0 +1,65 @@
+
+
+#brainvitaHeading{
+    text-align: center;
+}
+#brainvitaImage{
+    display: inline-block;
+width:300px;;
+}
+#brainvitaPara{
+    display: inline-block;
+    width: 950px;
+    height:300px;
+    overflow:scroll;
+}
+#chessHeading{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#chessImage{
+
+    display: inline-block;
+    width: 300px;
+}
+#chessPara{
+    display: inline-block;
+    width: 900px;
+    height: 250px;
+    overflow: scroll;
+}
+#cardHeading{
+    text-align: center;
+
+    background-color: black;
+    color: white;
+}
+#cardsgameImage{
+    display: inline-block;
+    height:300px;
+    width:300px;
+}
+#cardsgamePara{
+    display: inline-block;
+    height:270px;
+    width:900px;
+    overflow:scroll;
+}
+#indoorGamesHeading{
+    background-color: brown;
+    border-radius: 50px;
+    text-align: center;
+}
+#indoorImg{
+display: inline-block;
+height:300px;
+
+width: 350px;
+}
+#indoorPara{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: scroll;
+}
